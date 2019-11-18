@@ -1,0 +1,66 @@
+ 
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="{% static 'BookyBotApp/css/style.css' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  
+</head>
+<body >
+{% csrf_token %}
+		<div class="half-div blue-colour">
+      <div class="form-data">
+        <img style="width:10%; height:auto; float:none;"src="{% static 'BookyBotApp/images/logo.JPG' %}">
+		  	<p>Username<input type="text"  id="username" placeholder="Username"><br>
+  			<p>Password<input type="password" id="password" placeholder="Password"><br>
+  			<button id="login_btn">Log In</button>
+      </div>
+		</div>
+		<div class="half-div">
+		  	<img src="{% static 'BookyBotApp/images/plane.jpg' %}">
+		</div>
+	<!-- <input type="submit" value="Log in"> -->
+
+<script type="text/javascript">
+	
+	function getCsrfToken() {
+      var CSRF_TOKEN = $('input[name="csrfmiddlewaretoken"]').val();
+      return CSRF_TOKEN;
+    }
+
+	$("#login_btn").click(function(){      
+        $.ajax({
+          url: "/login-submit/",
+          type: "POST",
+          headers:{
+            'X-CSRFToken':getCsrfToken()
+          },
+          data: {
+            username: $("#username").val(),
+            password: $("#password").val()
+          },
+          success: function(response) {
+            console.log("Success!", response);
+            
+            if(response["status"]==200)
+            {
+              window.location.pathname = "/home"
+            }
+            else
+            {
+              alert( "The username or password is incorrect!");
+            }
+          },
+          error: function(xhr, textstatus, errorthrown) {
+            console.log("Please report this error: "+errorthrown+xhr.status+xhr.responseText);
+          }
+        });
+    });
+</script>
+	
+</body>
+</html>

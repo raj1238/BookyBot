@@ -1,0 +1,218 @@
+html{
+height:100%
+}
+body {
+    font-family:'Raleway';
+margin:0px;
+width:100%;
+min-height:100%;
+position:absolute;
+top:0;
+bottom:0;
+left:0;
+right:0;
+}
+
+h1 {
+    color: black;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    font-size: 40px;
+}
+.my-flight{
+overflow-y: scroll;
+height:700px;
+}
+.robo-image{
+margin: 10px 10px 0 10px;
+width: 4%;
+float: left;
+}
+.status-online{
+float:left;
+color:#ffffff;
+padding:25px 0;
+}
+.chat-window .fa-circle{
+padding: 30px 5px;
+float:left;
+color: #00ff00;
+}
+.robo-bar{
+background-color:#0087A2;
+top:0px;
+height:75px;
+}
+.flight-obj{
+margin:20px;
+background:#ffa64d;
+height:130px;
+border-radius: 20px;
+border:none;
+}
+.flight-obj p{
+    color:#ffffff;
+    padding:25px 0;
+}
+
+.previously-booked{
+width:25%;
+float:left;
+height:100%;
+background-color:#009b88;
+text-align:center;
+}
+.chat-window{
+width:75%;
+float:left;
+}
+
+h3 {
+    color: black;
+    font-size: 20px;
+    margin-top: 3px;
+    text-align: center;
+}
+
+
+#chatbox {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 60px;
+margin-bottom: 30px;
+overflow-y:scroll;
+height:650px;
+}
+
+#userInput {
+    /*margin-left: auto;
+    margin-right: auto;*/
+    width: 70%;
+    /*margin-top: 60px;*/
+position: fixed;
+bottom: 50px;
+left: 500px;
+
+}
+
+#textInput {
+    width: 87%;
+    border: none;
+    border-bottom: 3px solid #009688;
+    font-family: 'Raleway';
+    font-size: 17px;
+}
+
+#buttonInput {
+    padding: 3px;
+    font-family: 'Raleway';
+    font-size: 17px;
+}
+
+.userText {
+    color: white;
+    font-family: 'Raleway';
+    font-size: 17px;
+    text-align: right;
+    line-height: 30px;
+    position:   relative;
+    bottom:     0px;
+max-height:500px;
+}
+
+.userText span {
+    background-color: #009688;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.botText {
+    color: white;
+    font-family: 'Raleway';
+    font-size: 17px;
+    text-align: left;
+    line-height: 30px;
+    position:   relative;
+    bottom:     0px;
+max-height:500px;
+}
+
+
+.botText span {
+    background-color: #EF5350;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+#tidbit {
+    position:absolute;
+    bottom:0;
+    right:0;
+    width: 300px;
+}
+.flight-card{
+    width:300px;
+    background-color: #ffa64d;
+    padding:0 10px;
+}
+.flight-card .botText span{
+    padding:0px;
+    background-color: #ffa64d;
+}
+
+.flight-card button{
+    margin:20px;
+    padding:10px;
+    background-color:#EF5350; 
+    color:#ffffff;
+    border-radius: 20px;
+    border:none;
+}
+
+.half-div{
+    width:50%;
+    float: left;
+}
+
+.half-div img{
+    height: -webkit-fill-available;
+    float: right;
+    width: 105%;
+}
+
+.blue-colour{
+    background-color:#0087A2;
+    height: 100%;
+}
+
+.log-out{
+    float:right;
+    margin:10px;
+    padding:10px;
+    background-color:#ffa64d; 
+    color:#ffffff;
+    border-radius: 20px;
+    border:none;
+}
+.form-data{
+        position: fixed;
+    top: 350px;
+    text-align: center;
+    width: inherit;
+}
+
+.form-data p{
+    padding: 0 5px;
+    color: #ffffff;
+}
+
+#login_btn{
+   margin:10px;
+    padding:10px;
+    background-color:#ffa64d; 
+    color:#ffffff;
+    border-radius: 20px;
+    border:none; 
+}

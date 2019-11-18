@@ -1,0 +1,256 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+  <head>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="{% static 'BookyBotApp/css/style.css' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="{% static 'ScoutingApp/css/materialize.min.css' %}">
+
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  </head>
+  <body>
+    {% csrf_token %}
+  <div class="previously-booked">
+<img src="{% static 'BookyBotApp/images/logo.JPG' %}">
+<h2 style="color:#ffffff;"> Previously Booked Flights </h2>
+<div class="my-flight">
+
+</div>
+  </div>
+  <div class="chat-window">
+<div class="robo-bar">
+<img src="{% static 'BookyBotApp/images/robot.JPG' %}" class="robo-image">
+<i class="fa fa-circle"></i>
+<h3 class="status-online"> Online </h3>
+<a href="/logout"><button  class="log-out">Logout</li></button></a>
+</div>
+    <div class="chat-text">
+      <div id="chatbox">
+        <p class="botText message" id="first-message"></p>
+      </div>
+      <div id="userInput">
+        <input id="textInput" type="text" name="msg" placeholder="Message">
+        <input id="buttonInput" type="submit" value="Send">
+      </div>
+      <script>
+
+        $( document ).ready(function() {
+              $.ajax({
+              url: "/previous-booked/",
+              type: "POST",
+              headers:{
+                'X-CSRFToken':getCsrfToken()
+              },
+              data: {
+                
+              },
+              success: function(response) {
+                if(response.hasOwnProperty("bookings"))
+                {
+
+                booked_flights = JSON.parse(response["bookings"]);
+                console.log(booked_flights);
+                for (i=booked_flights["bookings"].length-1;i>=0;i--){
+                     //console.log(booked_flights["bookings"][i]);
+
+                     flightHtml='<div class="flight-obj"><p>'+booked_flights["bookings"][i][6]+' -> '+booked_flights["bookings"][i][7]+'&nbsp&nbsp&nbsp'+booked_flights["bookings"][i][8]+'<br>Airlines:'+booked_flights["bookings"][i][0]+'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Price:'+booked_flights["bookings"][i][1]+'<br>Departure: '+booked_flights["bookings"][i][4]+'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Arrival:'+booked_flights["bookings"][i][5]+'</div>'
+
+                     $(".my-flight").append(flightHtml);
+                     
+
+
+                }
+
+                if(booked_flights["bookings"].length!=0){
+                    firstHtml = "<span>Do you want to book the previously booked ticket again?</span>"
+                    
+                }
+                }
+                else
+                {
+                    firstHtml = "<span>Hello I am BookyBot! You can say I want to book a ticket and I will help you.</span>"
+                }
+                
+
+                $("#first-message").append(firstHtml);
+                
+              },
+              error: function(xhr, textstatus, errorthrown) {
+                console.log("Please report this error: "+errorthrown+xhr.status+xhr.responseText);
+              }
+
+            });
+        });
+
+        function getCsrfToken() {
+      var CSRF_TOKEN = $('input[name="csrfmiddlewaretoken"]').val();
+      return CSRF_TOKEN;
+    }
+
+        var global_responses = "";
+
+        function bookit(button){
+          id=button.id.split('-')[1];
+          console.log(id);
+          
+          var bookingmsg = "1 ticket for airline "+global_responses["flight_detail"][id][0]+" priced at "+global_responses["flight_detail"][id][1]+" departing at Rs."+global_responses["flight_detail"][id][4]+" and arriving at "+global_responses["flight_detail"][id][5];
+
+          console.log(bookingmsg);
+          var json_flight_details = JSON.stringify(global_responses["flight_detail"][id]);
+
+          var userHtml = '<p class="userText message"><span>' + bookingmsg + '</span></p>';
+
+          var botHtml = '<p class="botText message"><span> Your ticket has been booked. Thank you for using our services. </span></p>';
+
+          $("#chatbox").append(userHtml);
+          document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+
+          $("#chatbox").append(botHtml);
+          document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+
+          updateScroll();
+
+          $("#textInput").prop('disabled', false);
+          $("#buttonInput").prop('disabled', false);
+
+          $.ajax({
+          url: "/book-flight/",
+          type: "POST",
+          headers:{
+            'X-CSRFToken':getCsrfToken()
+          },
+          data: {
+            'flight_detail' : json_flight_details
+          },
+          success: function(response) {
+            console.log("Success!", response);
+          },
+          error: function(xhr, textstatus, errorthrown) {
+            console.log("Please report this error: "+errorthrown+xhr.status+xhr.responseText);
+          }
+
+        });
+
+        }
+
+        function getBotResponse() {
+          var rawText = $("#textInput").val();
+          var userHtml = '<p class="userText message"><span>' + rawText + '</span></p>';
+          $("#textInput").val("");
+          $("#chatbox").append(userHtml);
+          document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+          /*$.get("/get", { msg: rawText }).done(function(data) {
+            var botHtml = '<p class="botText"><span>' + data + '</span></p>';
+            $("#chatbox").append(botHtml);*/
+
+            $.ajax({
+          url: "/get-response/",
+          type: "POST",
+          headers:{
+            'X-CSRFToken':getCsrfToken()
+          },
+          data: {
+            'user-msg': rawText
+          },
+          success: function(response) {
+            console.log("Success!", response);
+            
+            if(response["status"]==200)
+            {
+              var botHtml = '<p class="botText"><span>' + response['bot-msg'] + '</span></p>';
+              $("#chatbox").append(botHtml);
+
+              if(response['bot-msg']=="Fetching options"){
+                  $.ajax({
+                    url: "/fetch-flight/",
+                    type: "POST",
+                    headers:{
+                      'X-CSRFToken':getCsrfToken()
+                    },
+                    data: {
+                    },
+                    success: function(response) {
+                      if(response["status"]==200)
+                      {
+                        if(response["flag"]=="successful")
+                        {
+                          console.log("Success!", response);
+                          flight_detail = JSON.parse(response["flight_detail"]);
+                          global_responses = flight_detail;
+                          console.log(flight_detail["flight_detail"]);
+                          for(i=0;i<flight_detail["flight_detail"].length;i++){
+                          var botHtml = '<div class="flight-card"><p class="botText"><span>Airline:' + (flight_detail["flight_detail"][i][0])
+                          + '<br>Price: Rs.'+(flight_detail["flight_detail"][i][1])+'.00'
+                          + '<br>Duration: '+(flight_detail["flight_detail"][i][2])
+                          + '<br>Stops: '+(flight_detail["flight_detail"][i][3])
+                          + '<br>Departure: '+(flight_detail["flight_detail"][i][4])
+                          + '<br>Arrival: '+(flight_detail["flight_detail"][i][5])
+                          +'</span></p><br><button id="flight-'+i+'" onclick="bookit(this)">Book It!</button></div>';
+                                $("#chatbox").append(botHtml);
+                                document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+                              }
+
+                              $("#textInput").prop('disabled', true);
+                              $("#buttonInput").prop('disabled', true);
+                          }
+
+                          else{
+                            var botHtml = '<p class="botText"><span>Could not process your request. Please try different credentials.</span></p>';
+                            $("#chatbox").append(botHtml);
+                          }
+                        }
+                      else
+                      {
+                        alert( "Server error 11");
+                      }
+
+                      
+
+                    },
+                    error: function(xhr, textstatus, errorthrown) {
+                      console.log("Please report this error: "+errorthrown+xhr.status+xhr.responseText);
+                    }
+
+              });
+            }
+            
+          }
+          else
+            {
+              alert( "Server error");
+            }
+        },
+          error: function(xhr, textstatus, errorthrown) {
+            console.log("Please report this error: "+errorthrown+xhr.status+xhr.responseText);
+          }
+        });
+            document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+			updateScroll();
+			
+			//Changes made from here
+			
+
+          }
+ 
+        
+        $("#textInput").keypress(function(e) {
+            if(e.which == 13) {
+                getBotResponse();
+            }
+        });
+        $("#buttonInput").click(function() {
+          getBotResponse();
+        })
+     
+function updateScroll(){
+var element = document.getElementById("chatbox");
+element.scrollTop = element.scrollHeight;
+}
+
+ </script>
+    </div>
+</div>
+  </body>
+</html>

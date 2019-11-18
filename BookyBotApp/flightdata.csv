@@ -1,0 +1,3438 @@
+City,Code
+agartala,IXA
+alageri village,KWR
+allahabad,IXD
+along,IXV
+aurangabad,IXU
+bagdogra,IXB
+balurghat,RGH
+bareli,BEK
+belgaum,IXG
+bellary,BEP
+bengaluru,BLR
+bhatinda,BUP
+bhavnagar,BHU
+bhopal,BHO
+bhubaneswar,BBI
+bhuj,BHJ
+bhuntar,KUU
+bikaner,BKB
+bilaspur,PAB
+car nicobar,CBD
+chandigarh,IXC
+chennai,MAA
+cochin,COK
+coimbatore,CJB
+cooch behar,COH
+cuddapah,CDP
+daman,NMB
+daparizo,DAE
+darjeeling,IXB
+dehra dun,DED
+delhi,DEL
+deparizo,DEP
+dhanbad,DBD
+dharamsala,DHM
+dibrugarh,DIB
+dimapur,DMU
+diu,DIU
+gaya,GAY
+goa,GOI
+gorakhpur,GOP
+guna,GUX
+guwahati,GAU
+gwalior,GWL
+hissar,HSS
+hubli,HBX
+hyderabad,HYD
+imphal,IMF
+indore,IDR
+jabalpur,JLR
+jagdalpur,JGB
+jaipur,JAI
+jaisalmer,JSA
+jammu,IXJ
+jamnagar,JGA
+jamshedpur,IXW
+jeypore,PYB
+jodhpur,JDH
+jorhat,JRH
+kailashahar,IXH
+kakadi village,SAG
+kamalpur,IXQ
+kandla,IXY
+kannur,CNN
+kanpur,KNU
+keshod,IXK
+khajuraho,HJR
+khowai,IXN
+kolhapur,KLH
+kolkata,CCU
+kota,KTU
+kozhikode,CCJ
+leh,IXL
+lilabari,IXI
+lucknow,LKO
+ludhiana,LUH
+madurai,IXM
+malda,LDA
+mangalore,IXE
+mumbai,BOM
+muzaffarnagar,MZA
+muzaffarpur,MZU
+mysore,MYQ
+nagpur,NAG
+nanded,NDC
+nasik,ISK
+neyveli,NVY
+osmanabad,OMN
+pantnagar,PGH
+pasighat,IXT
+pathankot,IXP
+patna,PAT
+pondicherry,PNY
+porbandar,PBD
+port blair,IXZ
+pune,PNQ
+puttaparthi,PUT
+raipur,RPR
+rajahmundry,RJA
+rajkot,RAJ
+ramagundam,RMD
+ranchi,IXR
+ratnagiri,RTC
+rewa,REW
+rourkela,RRK
+rupsi,RUP
+salem,SXV
+satna,TNI
+shillong,SHL
+sholapur,SSE
+silchar,IXS
+simla,SLV
+srinagar,SXR
+surat,STV
+tezpur,TEZ
+tezu,TEI
+thiruvananthapuram,TRV
+tiruchirappalli,TRZ
+tirupati,TIR
+tuticorin,TCR
+udaipur,UDR
+vadodara,BDQ
+varanasi,VNS
+vijayawada,VGA
+vishakhapatnam,VTZ
+warrangal,WGC
+zero,ZER
+aalborg,AAL
+aalesund,AES
+aarhus,ZID
+aasiaat,JEG
+abadan,ABD
+abakan,ABA
+abbotsford,YXX
+aberdeen,ABR
+abha,AHB
+abidjan,ABJ
+abilene,ABI
+abu dhabi,AUH
+abu simbel,ABS
+abuja,ABV
+acapulco,ACA
+acarigua,AGV
+accra,ACC
+adak island,ADK
+adana,ADA
+addis ababa,ADD
+adelaide,ADL
+aden,ADE
+adler/sochi,AER
+adrar,AZR
+afutara,AFT
+agadir,AGA
+agaun,AUP
+agen,AGF
+agra,AGR
+agri,AJI
+aguadilla,BQN
+aguascalientes,AGU
+aguni,AGJ
+ahmedabad,AMD
+ahwaz,AWZ
+ailuk island,AIM
+aioun el atrouss,AEO
+airok,AIC
+aitutaki,AIT
+aizawl,AJL
+ajaccio,AJA
+akiachak,KKI
+akiak,AKI
+akita,AXT
+akron/canton,CAK
+aksu,AKU
+aktyubinsk,AKX
+akulivik,AKV
+akureyri,AEY
+akuton,KQA
+al ain,AAN
+al arish,AAC
+al ghaydah,AAY
+al hoceima,AHU
+alakanuk,AUK
+alamogordo,ALM
+alamosa,ALS
+al-baha,ABT
+albany,ALB
+albuquerque,ABQ
+albury,ABX
+alderney,ACI
+aldershot,XLY
+aleknagik,WKK
+aleppo,ALP
+alexander bay,ALJ
+alexandria,ALY
+alexandroupolis,AXD
+al-fujairah,FJR
+alghero,AHO
+algiers,ALG
+alicante,ALC
+alice springs,ASP
+allakaket,AET
+allentown,ABE
+alliance,AIA
+alma,YTF
+almaty,AKX
+almeria,LEI
+alor island,ARD
+alorsetar,AOR
+alotau,GUR
+alpena,APN
+alta,ALF
+altamira,ATM
+altay,AAT
+altenrhein,ACH
+alto rio senguerr,ARR
+altoona,AOO
+amami o shima,ASJ
+amarillo,AMA
+amazon bay,AZB
+ambanja,IVA
+ambatomainty,AMY
+ambatondrazaka,WAM
+ambler,ABL
+ambon,AMQ
+amboseli,ASV
+amderma,AMV
+amman,ADJ
+amritsar,ATQ
+amsterdam,AMS
+anadyr,DYR
+anahim lake,YAA
+anaktueuk,AKP
+analalava,HVA
+anapa,AAQ
+anchorage,ANC
+ancona,AOI
+andenes,ANX
+andizhan,AZN
+aneityum,AUY
+angelholm/helsingborg,JHE
+angers,ANE
+anggi,AGD
+anging,AQG
+angling lake,YAX
+angoon,AGN
+angouleme,ANG
+anguilla,AXA
+aniak,ANI
+aniwa,AWD
+ankang,AKA
+ankara,ESB
+ankavandra,JVA
+annaba,AAE
+annecy,NCY
+antalaha,ANM
+antalya,AYT
+antaninvarivo,TNR
+antigua,ANU
+antofagasta,ANF
+antsalova,WAQ
+antsiranana,DIE
+antsohihy,WAI
+antwerp,ZAY
+anvik,ANV
+aomori,AOJ
+aosta,AOT
+apartado,APO
+apia,APW
+appleton,ATW
+aqaba,AQJ
+araca,AJU
+aracatuba,ARU
+arad,ARW
+aragip,ARP
+araguaina,AUX
+arapoti,AAG
+arar,RAE
+arauca,AUC
+arba mintch,AMH
+arcata,ACV
+arctic bay,YAB
+arctic village,ARC
+ardabil,ADU
+arequipa,AQP
+argelholm/helsingborg,AGH
+argyle,GYL
+arica,ARI
+arkangelsk,ARH
+armenia,AXM
+armidale,ARM
+arthur's town,ATC
+arua,RUA
+aruba,AUA
+arusha,ARK
+arviat,YEK
+arvidsjaur,AJR
+asahikawa,AKJ
+asheville,AVL
+ashgabat,ASB
+ashland, WV 
+asmara,ASM
+asosa,ASO
+aspen,ASE
+assiut,ATZ
+astana,TSE
+astrakhan,ASF
+asturias,OVD
+asuncion,ASU
+aswan,ASW
+ataq,AXK
+athens,AHN
+atiu island,AIU
+atka,AKB
+atlanta,ATL
+atlantic city,AIY
+atoifi,ATD
+atqasuk,ATK
+attawapiskat,YAT
+atuona,AUQ
+atyrau,GUW
+auckland,AKL
+augsburg/munich,AGB
+augusta,AGS
+auki,AKS
+aupaluk,YPJ
+aur island,AUL
+aurillac,AUR
+aurukun,AUU
+austin,AUS
+avignon,AVN
+ayawaki,AYW
+ayers rock,AYQ
+babo,BXB
+bacolod,BCD
+badajcz,BJZ
+bade,BXD
+badu island,BDD
+bagotville,YBG
+baharpar,BJR
+bahawalpur,BHV
+bahia blanca,BHI
+bahia pinas,BFQ
+bahia solano,BSC
+bahrain,BAH
+baia mare,BAY
+baie comeau,YBC
+baimuru,VMU
+baker lake,YBK
+bakersfield,BFL
+baku,GYD
+balalae,BAS
+balikesir,BZI
+balikpapan,BPN
+balimo,OPU
+ballina,BNK
+balmaceda,BBA
+baltimore,BWI
+bam,BXR
+bamaga,ABM
+bamako,BKO
+banda aceh,BTJ
+bandar abbas,BND
+bandar lampung,TKG
+bandar lengeh,BDH
+bandar seri begawan,BWN
+bandung,BDO
+bangalore,BLR
+bangda,BPX
+bangkok,BKK
+bangor,BGR
+banja luka,BNX
+banjarmasin,BDJ
+banjul,BJL
+banmethuot,BMV
+bannu,BNP
+banqui,BGF
+baoshan,BSD
+baotou,BAV
+bar harbour,BHB
+baracoa,BCA
+barcaldine,BCI
+barcelona,BCN
+bardufoss,BDU
+bari,BRI
+barinas,BNS
+bario,BBN
+barisal,BZL
+barnaul,BAX
+barquisimeto,BRM
+barra colorado,BCL
+barra,BRR
+barran cabermeja,EJA
+barranquilla,BAQ
+barreiras,BRA
+barrow,BRW
+barter island,BTI
+basco,BSO
+basel,BSL
+basel/mulhouse railway station,ZDH
+bashehr,BUZ
+bastia,BIA
+batam,BTH
+bathhurst,ZBF
+bathurst island,BRT
+bathurst,BHS
+batman,BAL
+batna,BLJ
+batom,BXM
+baton rouge,BTR
+batsfijord,BJF
+battambang,BBM
+batumi,BUS
+batuna,BPF
+bauru,BAU
+bay city,MBS
+bayamo,BYM
+bayreuth,BYU
+bearskin lake,XBE
+beaumont/port arthur,BPT
+beaver creek,ZBV
+beaver,WBQ
+bechar,CBH
+beckley,BKW
+bedford,BED
+bedourie,BEU
+beef island,EIS
+beica,BEI
+beida,LAQ
+beihai,BHY
+beijing,PEK
+beira,BEW
+beirut,BEY
+bejaia,BJA
+belaga,BLG
+belem,BEL
+belep island,BMY
+belfast, United Kingdom 
+belgorod,EGO
+belgrade,BEG
+belize city,BZE
+bella bella,ZEL
+bella coola,QBC
+belleville,BLV
+bellingham,BLI
+bellona,BNY
+belo horizonte,PLU
+belo,BMD
+bemidji,BJI
+benbecula,BEB
+benghazi,BEN
+bengkulu,BKS
+benton harbor,BEH
+berau,BEJ
+berbera,BBO
+berens river,YBV
+bergen,BGO
+bergerac,EGC
+berlevag,BVG
+berlin,BER
+bermuda,BDA
+berne,BRN
+besalampy,BPY
+bethel,BET
+bethlehem,ABE
+bettles,BTT
+beziers,BZR
+bhadrapur,BDP
+bhairawa,BWA
+bhamo,BMO
+bharatpur,BHR
+biak,BIK
+biarritz,BIQ
+big trout,YTL
+bikini atoll,BII
+bilbao,BIO
+billings,BIL
+billund,BLL
+biloxi/gulfport,GPT
+bima,BMU
+bimini,BIM
+binghamton,BGM
+bintulu,BTU
+bintuni,NTI
+biratragar,BIR
+birch creek,KBC
+birdsville,BVI
+birmingham,BHM
+bisha,BHH
+bishkek,FRU
+biskra,BSK
+bismarck,BIS
+bissau,OXB
+black tickle,YBI
+blackall,BKQ
+blackpool,BLK
+blackwater,BLT
+blagoveschensk,BQS
+blanc sablon,YBX
+blantyre,BLZ
+blenheim,BHE
+blo horizonte,CNF
+block island,BID
+bloemfontein,BFN
+bloomington,BMI
+bluefield,BLF
+boa vista,BVC
+boang,BOV
+boavista,BVB
+bocas del toro,BOC
+bodo,BOO
+bodrum,BJV
+bogota,BOG
+boiju island,GIC
+boise,BOI
+bojnord,BJB
+bokondini,BUI
+bol,BWK
+bolzano,BZO
+boma,BOA
+bombay,BOM
+bonaire,BON
+bonaventure,YVB
+bonn,BNJ
+bora bora,BOB
+bordeaux,BOD
+borg el arab,HBE
+borkum,BMK
+borlange,BLE
+bornholm,RNN
+borroloola,BOX
+bossaro,BSA
+boston,BOS
+boulder,XHH
+boulia,BQL
+boundary,BYA
+bourgas,BOJ
+bourke,BRK
+bournemouth,BOH
+bowling green,BWG
+bozeman,BZN
+brack,BCQ
+bradford,BFD
+brainerd,BRD
+brampton island,BMP
+brampton,XPN
+brandon,YBR
+brantford,XFV
+brasilia, Brazil 
+bratislava,BTS
+bratsk,BTK
+braunschweig,BWE
+brawnwood,BWD
+brazzaville,BZV
+breckenridge,QKB
+bremen,BRE
+brest,BES
+brewarrina,BWQ
+bridgetown,BGI
+brindisi,BDS
+brisbane, Australia 
+bristol,BRS
+brive-la-gaillarde,BVE
+brno,ZDN
+brochet,YBT
+brockville,XBR
+broken hill,BHQ
+bronnoysund,BNN
+brookings,BKX
+brooks lodge,RBH
+broome,BME
+brownsville,BRO
+brunswick,BQK
+brus laguna,BHG
+brussels,BRU
+bucaramanga,BGA
+bucharest,BBU
+buckland,BKC
+budapest,BUD
+buenos aires,AEP
+buffalo,BUF
+bugulma,UUA
+bujumbura,BJM
+buka,BUA
+bukhara,BHK
+bukoba,BKZ
+bulawayo,BUQ
+bulgulma,UUA
+bullhead city/laughlin,IFP
+bundaberg,BDB
+bunsil,BXZ
+burao,BUO
+burbank,BUR
+bureta,LEV
+buri ram,BFV
+burketown,BUC
+burlington,BRL
+burnie,BWT
+burns lake,YPZ
+busan,PUS
+butte,BTM
+butuan,BXU
+bydgoszcz,BZG
+cabo san lucas, Mexico 
+caen,CFR
+cagayan de oro,CGY
+cagliari,CAG
+cairns,CNS
+cairo,CAI
+cajamarca,CJA
+calabar,CBQ
+calama,CJC
+calcutta,CCU
+calgary,YYC
+cali,CLO
+calvi,CLY
+camaguey,CMW
+cambridge bay,YCB
+cambridge,CBG
+camodoro,CRD
+campbell river,YBL
+campbellton,XAZ
+campbeltown,CAL
+campeche,CPE
+campina grande,CPV
+campinas,CPQ
+campo grande,CGR
+campos,CAW
+canaima,CAS
+canberra,CBR
+cancun,CUN
+cannes,JCA
+canouan,CIW
+canton/akron,CAK
+cap haitien,CAP
+cape dorset,YTE
+cape girardeau,CGI
+cape lisburne,LUR
+cape newenham,EHM
+cape orford,CPI
+cape town,CPT
+cape vogel,CVL
+capreol,XAW
+caracas,CCS
+carajas,CKS
+carbondale,MDH
+carcassonne,CCF
+cardiff,CWL
+carlsbad,CLD
+carmel,MRY
+carnarvon,CVQ
+carrillo,RIK
+cartagena,CTG
+cartwright,YRF
+carupani,CUP
+casablanca,CAS
+cascavel,CAC
+casino,CSI
+casper,CPR
+casselman,XZB
+castaway,CST
+castlegar,YCG
+castres,DCM
+cat lake,YAC
+catamarca,CTC
+catania,CTA
+caucasia,CAQ
+caxias do sul,CXJ
+cayenne,CAY
+cayman brac is,CYB
+cayo largo del sur,CYO
+cebu,CEB
+cedar city,CDC
+cedar rapids,CID
+cedun,CED
+central,CEM
+ceuta,JCU
+chadron,CDR
+chah-bahar,ZBR
+chalkyitsik,CIK
+chambery,CMF
+chambord,XCI
+champaign/urbana,CMI
+chandler,XDL
+changchun,CGQ
+changde,CGD
+changuinda,CHX
+changzhou,CZX
+chania,CHQ
+chaoyang,CHG
+chapeco,XAP
+chapleau,YLD
+charleston,CHS
+charleville,CTL
+charlotte,CLT
+charlottesville,CHO
+charlottetown,YHG
+chatham island,CHT
+chatham,XCM
+chattanooga,CHA
+cheboksary,CSY
+chefornak,CYF
+chelybinsk,CEK
+chemainus,XHS
+cheongju,CJJ
+cherepovets,CEE
+chergdu,CTU
+chester,CEG
+chesterfield inlet,YCS
+chetumal,CTM
+chevak,VAK
+chevepovets,CEE
+chevery,YHR
+cheyenne,CYS
+chi mei,CMJ
+chiang mai,CNX
+chiang rai,CEI
+chiayi,CYI
+chibougamau,YMT
+chicago,CHI
+chicayo,CIX
+chicken,CKX
+chico,CIC
+chifeng,CIF
+chignik,KCQ
+chihuahua,CUU
+chillan,YAI
+chipata,CIP
+chisana,CZN
+chisasibi,YKU
+chisholm/hibbing,HIB
+chisinau,KIV
+chita,HTA
+chitral,CJL
+chitre,CTD
+chittagong,CGP
+choiseul bay,CHY
+chongqing,CKG
+christchurch,CHC
+christmas island,XCH
+chuathbaluk,CHU
+churchill falls,ZUM
+churchill,YYQ
+cicia,ICI
+ciego de avila,AVI
+cincinnati,CVG
+circle hot springs,CHP
+circle,IRC
+ciudad bolivar,CBL
+ciudad del carmen,CME
+ciudad del este,AGT
+ciudad juarez,CJS
+ciudad obregon,CEN
+ciudad victoria,CVM
+clarks point,CLP
+clarksburg,CKB
+clearwater/st petersburg,PIE
+clermont-ferrand,CFE
+cleve,CVC
+cleveland,CLE
+cloncurry,CNJ
+clovis,CVN
+club makokola,CMK
+cluj,CLJ
+clyde river,YCY
+cobar,CAZ
+cobija,CIJ
+cobourg,XGJ
+cochabamba,CBB
+coconut island,CNC
+cocos islands,Keeling
+cody/yellowstone,COD
+coen,CUQ
+coffee point,CFA
+coffman cove,KCC
+coffs harbor,CFS
+cold bay,CDB
+colima,CLQ
+college station,CLL
+cologne,CGN
+colombo,CMB
+colon,ONX
+colorado springs,COS
+columbia,COU
+columbus,CSG
+colville lake,YCK
+comox,YQQ
+conakry,CKY
+concepcion,CCP
+concord,CCR
+concordia,COC
+condoto,COG
+constanta,CND
+constantine,CZL
+contadora,OTD
+coober pedy,CPD
+cooktown,CTN
+cooma, Australia 
+coonamble,CNB
+copenhagen,CPH
+copiapo,CPO
+copper mountain,QCE
+coral harbour,YZS
+cordoba,COR
+cordova,CDV
+cork,ORK
+cornwall,YCC
+coro,CZE
+corozal,CZH
+corpus christi,CRP
+corrientes,CNQ
+cortez,CEZ
+corumba,CMG
+corvo island,CVU
+cotabato,CBO
+cotarou,COC
+coteau,XGK
+courtenay,YCA
+cox's bazar,CXB
+cozumel,CZM
+craig cove,CCV
+craig,CGA
+cranbrook,YXC
+crescent city,CEC
+criciuma,CCM
+croker island,CKI
+crooked creek,CKO
+crooked island,CRI
+cross lake,YCR
+crotone,CRV
+cruzeiro do sul,CZS
+cube cove,CUW
+cucata,CUC
+cuenca,CUE
+cuernavaca,CVJ
+cuiaba,CGB
+culiacan,CUL
+cumana,CUM
+cumberland,CBE
+cunnamulla,CMA
+curacao,CUR
+curitiba,CWB
+cuzco,CUZ
+da nang,DAD
+dabra,DRH
+daegu,TAE
+dakar,DKR
+dakhla,VIL
+dalaman,DLM
+dali city,DLU
+dalian,DLC
+dallas,DFW
+damascus,DAM
+dammam,DMM
+dangriga,DGA
+dar es salaam,DAR
+darnley island, Australia 
+daru,DAU
+darwin, Australia 
+datadawai,DTD
+dauphin,YDN
+davao,DVO
+david,DAV
+davis inlet,YDI
+dawe,TVY
+dawson city,YDA
+dawson creek,YDQ
+daxian,DAX
+dayang,DYG
+daydream is,DDI
+dayton,DAY
+daytona beach,DAB
+deauville,DOL
+debra marcos,DBM
+debra tabor,DBT
+decatur,DEC
+deer lake,YDF
+deering,DRG
+deirezzor,DEZ
+del reo,DRT
+deline,YWJ
+delta junction,DJN
+dembidollo,DEM
+denham,DNM
+denizli,DNZ
+denpasar bali,DPS
+denver,DEN
+dera ghazi,DEA
+dera ismail khan,DSK
+derby,DRB
+derim,DER
+des moines,DSM
+dessie,DSE
+detroit,DTT
+devil's lake,DVL
+devonport,DPO
+dhaka,DAC
+dibrugarn,DIB
+dickinson,DIK
+dien bien phu,DIN
+dijon,DIJ
+dili,DIL
+dillingham,DLG
+dillons bay,DLY
+dinard,DNR
+dipolog,DPL
+dire dawa,DIR
+div,DIU
+diyarbakir,DIY
+djanet,DJG
+djerba,DJE
+djibouti,JIB
+dnepropetrovsk,DNK
+dobo,DOB
+dodge city,DDC
+dodoima,DDM
+dodoma,DOD
+doha,DOH
+dominica,DCF
+donegal,CFN
+donetsk,DOK
+dongola,DOG
+doomadgee,DMD
+dortmund,DTM
+dothan,DHN
+dourados,DOU
+dovala,DLA
+dresden,DRS
+drummondville,XDM
+dryden,YHD
+dubai,XNB
+dubbo,DBO
+dublin,DUB
+dubois,DUJ
+dubrovnik,DBV
+dubuque,DBQ
+duluth,DLH
+dumaguete,DGT
+dumai,DUM
+duncan/quam,DUQ
+dundee,DND
+dunedin,DUD
+dunhuang,DNH
+dunk island,DKI
+durango,DRO
+durban,DUR
+durham,RDU
+durham/raleigh,RDU
+dushanbe,DYU
+dusseldorf,DUS
+dutch harbor,DUT
+dzaoudzi,DZA
+east london,ELS
+east main,ZEM
+easton,ABE
+eau claire,EAU
+ebon,EBO
+eday,EOI
+edinburgh,EDI
+edmonton,YEG
+edna bay,EDA
+edremit,EDO
+edward river,EDR
+eek,EEK
+egilsstadir,EGS
+eindhoven,EIN
+eisenach,EIB
+ekaterinburg,SVX
+ekuk,KKU
+ekwok,KEK
+el bolsan,EHL
+el centro,IPL
+el dorado,ELD
+el fasher,ELF
+el maiten,EMX
+el obeid,EBD
+el oved,ELU
+el paso,ELP
+el portillo/samana,EPS
+el real,ELE
+el salvador,ESR
+el vigia,VIG
+el yopal,EYP
+elat,ETH
+elazig,EZS
+elba island,EBA
+elcho island,ELC
+eldoret,EDL
+eleuthera island,ELH
+elfin cove,ELV
+elim,ELI
+elista,ESL
+elko,EKO
+elmira,ELM
+ely,LYU
+emae,EAE
+embessa,EMS
+emerald,EMD
+emmonak,EMK
+emo,EMO
+enarotali,EWI
+ende,ENE
+endicott,BGM
+enewetak island,ENT
+enid,WDG
+enontekio,ENF
+enshi,ENH
+entebbe,EBB
+enugu,ENU
+epinal,EPL
+ercan,ECN
+erfurt,ERF
+erie,ERI
+erzincan,ERC
+erzurum,ERZ
+esbjerg,EBJ
+escanaba,ESC
+esmeraldas,ESM
+esperance,EPR
+espiritu santo,SON
+esquel,EQS
+esquimalt,YPF
+eugene,EUG
+eureka,EUE
+eureka/arcata,ACV
+evansville,EVV
+eveter,EXT
+ewer,EWE
+exmouth gulf,EXM
+fagernes,VDB
+fair isle,FIE
+fairbanks,FAI
+faisalabad,LYP
+fajard,FAJ
+fak fak,FKQ
+fakarava,FAV
+farafangana,RVA
+fargo,FAR
+farmington,FMN
+faro,FAO
+faroe islands,FAE
+fayetteville,FYV
+fera island,FRE
+fergana,FEG
+fernando de noronha,FEN
+fez,FEZ
+fianarantsoa,WFI
+figari,FSC
+filton,FZO
+finkenwerder,XFW
+fitzroy crossing,FIZ
+flagstaff,FLG
+flensburg,FLF
+flin flon,YFO
+flint,FNT
+florence,PSA
+florence/muscle shoals/sheffield,MSL
+florencia,FLA
+flores island,FLW
+flores,FRS
+florianopolis,FLN
+floro,FRO
+foggia,FOG
+fond du lac,ZFD
+forde,FDE
+formosa,FMA
+fort albany,YFA
+fort chipewyan,YPY
+fort collins/loveland,QWF
+fort dauphin,FTU
+fort de france,FDF
+fort dodge,FOD
+fort frances,YAG
+fort good hope,YGH
+fort hope,YFH
+fort lauderdale,FLL
+fort leonard wood,TBN
+fort mcmurray,YMM
+fort myers,RSW
+fort nelson,YYE
+fort severn,YER
+fort simpson,YFS
+fort smith,FSM
+fort st john,YXJ
+fort walton beach,VPS
+fort wayne,FWA
+fort worth/dallas,DFW
+fortaleza,FOR
+fox harbour/st lewis,YFX
+franca,FRC
+franceville,MVB
+francistown,FRW
+frankfurt,HHN
+franklin,FKL
+fredericia,ZBJ
+fredericton junction,XFC
+fredericton,YFC
+freeport,FPO
+freetown,FNA
+fresno,FAT
+friedrichshafer,FDH
+fuerteventura,FUE
+fukue,FUJ
+fukuoka,FUK
+fukushima,FKS
+funafuti atol,FUN
+funchal,FNC
+futuna island,FTA
+fuyang,FUG
+fuzhou,FOC
+gaborone,GBE
+gafsa,GAF
+gagnoa,GGN
+gainesville,GNV
+galapagos,GPS
+gallivare,GEV
+gallup,GUP
+galway,GWY
+gamba,GAX
+gambela,GMB
+gan island,GAN
+gander,YQX
+gangneung,KAG
+garachine,GHE
+garaina,GAR
+garasa,GRL
+garden city,GCK
+garden point,GPN
+garoua,GOV
+gary,GYY
+gaspe,YGP
+gassim,ELQ
+gaua,ZGU
+guwahati,GAU
+gaza city,GZA
+gaziatep,GZT
+gdansk,GDN
+gebe,GEB
+gelendzik,GDZ
+geneina,EGN
+general santos,GES
+geneva,GVA
+genoa,GOA
+george town,GGT
+george,GRJ
+georgetown,GEO
+geraldton, 
+gerona,GRO
+gethsemani,ZGS
+ghadames,LTD
+ghardala,GHA
+ghat,GHT
+gibraltar,GIB
+gilgit,GIL
+gillam,YGX
+gillette,GCC
+gillies bay,YGB
+gisborne,GIS
+gizan,GIZ
+gizo,GZO
+gjoa haven,YHK
+gladewater/kilgore,GGG
+gladstone,GLT
+glasgow,GGW
+glen innes,GLI
+glencoe,XZC
+glendive,GDV
+goba,GOB
+gobernador gregores,GGS
+gode/iddidole,GDE
+gods narrows,YGO
+gods river,ZGI
+goiania,GYN
+gold coast, Australia 
+golfito,GLF
+golmud,GOQ
+golovin,GLV
+gonalia,GOE
+gondari,GDQ
+goodnews bay,GNU
+goose bay,YYR
+gore,GOR
+goroka,GKA
+gorontalo,GTO
+gothenburg,GOT
+goulburn island,GBL
+goundam,GUD
+gove,GOV
+governador valadares,GVR
+governors harbour,GHB
+goya, Argentina 
+gozo,GZM
+graciosa island,GRW
+grafton,GFN
+granada,GRX
+grand canyon,JGC
+grand cayman,GCM
+grand forks,GFK
+grand island,GRI
+grand junction,GJT
+grand rapids,GRR
+grand turk island,GDT
+grande prairie,YQU
+grayling,KGX
+graz,GRZ
+great falls,GTF
+green bay,GRB
+greensboro,GSO
+greenville,GLH
+greenville/spartanburg,GSP
+grenada, 
+grenoble,GNB
+griffith,GFF
+grimsby,XGY
+grimsey,GRY
+grise fiord,YGZ
+groennedal,JGR
+groningen,GRQ
+groofe eylandt,GTE
+groton/new london,GON
+guadalajara,GDL
+guam ,GUM
+guanaja,GJA
+guanajuato,BJX
+guangzhou,CAN
+guantanamo,GAO
+guatemala city,GUA
+guayaquil,GYE
+guayaramerin,GYA
+guaymas,GYM
+guelph,XIA
+guernsey,GCI
+guerrero negro,GUB
+guilin,KWL
+guiria,GUI
+gulfport,GPT
+gulu,ULU
+gulyang,KWE
+gunnison,GUC
+gunsan,KUV
+gurayat,URY
+gustavus,GST
+gwadar,GWD
+gwangju,KWJ
+gyandzha,KVD
+gyourmri,LWN
+haapa,HPA
+hachijo jima,HAC
+hagerstown,HGR
+hagfors,HFS
+haifa,HFA
+haikou,HAK
+hail,HAS
+hailar,HLD
+hailey,SUN
+haines,HNS
+haiphong,HPH
+hakodate,HKD
+halberstadt,ZHQ
+halifax,YHZ
+hall beach,YUX
+halls creek,HCQ
+halmstad,HAD
+hamburg,HAM
+hamilton island,HTI
+hamilton,BDA
+hammerfest,HFT
+hampton,PHF
+hana,HNM
+hanapepe,PAK
+hancock,CMX
+hangzhou,HGH
+hanimaadhoo,HAQ
+hanoi,HAN
+hanover,HAJ
+hanzhang,HZG
+harare,HRE
+harbin,HRB
+hargeisa,HGA
+harlingen,HRL
+harrisburg,MDT
+harrison,HRO
+harstad-narvik,EVE
+hartford,BDL
+hassi messaoud,HME
+hasvik,HAA
+hat yai,HDY
+hateruma,HTR
+haugesund,HAU
+havana,HAV
+havasupai,HAE
+havre st pierre,YGV
+havre,HVR
+hay river,YHY
+hayden,HDN
+hayman island,HIS
+hays,HYS
+healy lake,HKB
+hefei,HFE
+heidelberg,HDB
+helena,HLN
+helgoland,HGL
+helsinki,HEL
+hendersonville,AVL
+heno,HEH
+heraklian,HER
+heringsdorf,HDF
+hermavan,HMV
+hermosillo,HMO
+herning,XAK
+hervey bay,HVB
+hervey,XDU
+hibbing/chisholm,HIB
+hickory,HKY
+high level,YOJ
+high point,GSO
+hilo,ITO
+hilton head,HHH
+hiroshima,HIW
+hivaro,HIT
+ho chi minh city,SGN
+hobart,HBA
+hobbs,HBB
+hodeidah,HOD
+hoedspruit,HDS
+hof,HOQ
+hofuf,HOF
+hohhot,HET
+hokitika,HKK
+holguin,HOG
+hollis,HYL
+holman,YHI
+holy cross,HCR
+homer,HOM
+hong kong,HKG
+honiara,HIR
+honningsvag,HVG
+honolulu,HNL
+hooker,HOK
+hoolehua,MKK
+hoonah,HNH
+hooper bay,HPB
+hopedale,YHO
+horn island australia ,HID
+hornafjordur,HFN
+horta,HOR
+hoskins,HKN
+hot springs,HOT
+hotan,HTN
+houeisay,HOE
+houn,HUQ
+houston,ZHO
+huahine,HUH
+hualien,HUN
+hualtin,HHQ
+huanuco,HUU
+huargyan,HYN
+huatulco,HUX
+hudiksvall,HUV
+hudson bay,YHB
+hue,HUI
+hughenden,HGD
+hughes,HUS
+hultsfred,HLF
+humberside,HUY
+huntington, KY 
+huntsville,HSV
+hurghada,HRG
+huron,HON
+huslia,HSL
+hwange nat park,HWN
+hyannis,HYA
+hydaburg,HYG
+iasi,IAS
+ibague,IBE
+ibiza,IBZ
+idaho falls,IDA
+igarka,IAA
+igiugig,IGG
+igloolik,YGT
+iguassu falls, Brazil 
+iguazu,IGR
+ihu,IHU
+ile des pins,ILP
+iles de la madeleine,YGR
+ilford,ILF
+ilheus,IOS
+iliamna,ILI
+illaga,ILA
+iloilo,ILO
+ilu,IUL
+ilulissat,JAV
+imperatriz,IMP
+imperial,IPL
+in amenas,IAM
+inagua,IGA
+inanwatan,INX
+indagen,IDN
+indianapolis,IND
+ingersoll,XIB
+innsbruck,INN
+inta,INA
+international falls,INL
+inukjuak,YPH
+inuvik,YEV
+invercargill,IVC
+inverell,IVR
+inverness,INV
+inyokern,IYK
+ioannina,IOA
+ioma,IOP
+ipatinga,IPN
+ipiales,IPI
+ipil,IPE
+ipoh,IPH
+ipota,IPA
+iqaluit,YFB
+iquique,IQQ
+iquitos,IQT
+irkutsk,IKT
+iron mountain,IMT
+ironwood,IWD
+isafjordur,IFJ
+isfahan,IFN
+ishigakij,ISG
+islamabad,ISB
+island lake/garden hill ,YIV
+island lake/garden hill,YIV
+islay,ILY
+isle of man,IOM
+isles of scilly,ISC
+islip,ISP
+istanbul,IST
+itaituba,ITB
+ithaca,ITH
+itokama,ITK
+ivalo,IVL
+ivano-frankovsk,IFO
+ivujivik,YIK
+iwami,IWJ
+ixtapa,ZIH
+ixtepec,IZT
+izmir,ADB
+izumo,IZO
+jabor,JAT
+jacareacanga,JCR
+jackson hole,JAC
+jackson,JAN
+jacksonville,JAX
+jacobabad,JAG
+jacquinot bay,JAQ
+jakarta,CGK
+jalapa,JAL
+jaluit island,UIT
+jambi. indonesia ,DJB
+jamestown,JMS
+janakpur,JKR
+janesville,JVL
+jaque,JQE
+jasper,XDH
+jayapura,DJJ
+jeddah,JED
+jeh,JEJ
+jeju, metro area 
+jerez de la frontere,XRY
+jersey,JER
+jessore,JSR
+jiamusi,JMU
+jiayuguan,JGN
+jijel,GJL
+jijiga,JIJ
+jimma,JIM
+jinan,TNA
+jingdezhen,JDZ
+jinghong,JHG
+jinja,JIN
+jinjiang,JJN
+jinju,HIN
+jinka,BCO
+jinzhou,JNZ
+ji-parana,JPR
+jiwani,JIW
+joao pessoa,JPA
+joensuu,JOE
+johannesburg,JNB
+johnson city,BGM
+johnston island,JON
+johnstown,JST
+johor,JHB
+joinville,JOI
+joliette,XJL
+jommu,IXJ
+jomsom,JMO
+jonesboro,JBR
+jonkoping,JKG
+jonquiere,XJQ
+joplin,JLN
+jose de san martin,JSM
+jouf,AJF
+juazeiro do norte,JDO
+juist,JUI
+juiz de fora,JDF
+jujuy,JUJ
+julia creek,JCK
+juliaca,JUL
+juneau,JNU
+juzha,JUZ
+jyvaskyla,JYV
+kaadedhdhoo,KDM
+kaben,KBT
+kabri dar,ABK
+kabul,KBL
+kabwun,KBM
+kadanwari,KCF
+kadhonoo,KDO
+kahramanmaras,KCM
+kahului, 
+kaintiba,KZF
+kaitaia,KAT
+kajaani,KAJ
+kake,KAE
+kakhonak,KNK
+kalamazoo,AZO
+kalaupapa, 
+kalbarri,KAX
+kaliningrad,KGD
+kalskag,KLG
+kaltag,KAL
+kambuaya,KBX
+kameshli,KAC
+kamloops,YKA
+kamuela, 
+kamur,KCD
+kamusi,KUY
+kangiqsualujjuaq,XGR
+kangiqsujuaq,YWB
+kangirsuk,YKG
+kano,KAN
+kansas city,MCI
+kapalua, 
+kapuskasing,YYU
+karachi,KHI
+kardia,KDL
+kariba,KAB
+karlsruhe/badern baden,FKB
+karpathos,AOK
+karubaga,KBF
+kasaan,KXA
+kasaba bay,ZKB
+kasabonika,XKS
+kasama,KAA
+kasane,BBK
+kaschechewan,ZKE
+kasigluk,KUK
+katherine, Australia 
+kathmandu,KTM
+katowice,KTW
+kauai island/lihue,LIH
+kaunas,KUN
+kavala,KVA
+kavieng,KVG
+kawthaung,KAW
+kayseri,ASR
+kazan, Russia 
+kearney,EAR
+keene,EEN
+keewaywin,KEW
+kefallinia,EFL
+kegaska,ZKG
+kelowna,YLW
+kenai,ENA
+kendari,KDI
+kenora,YQK
+kerkyra,CFU
+ketchikan,KTN
+key west,EYW
+keystone,QKS
+kharga,UVL
+kharkov,HRK
+khudzhand,LBD
+khuzdar,KDD
+kiana,IAN
+kiev,KBP
+kigali,KGL
+kigoma,TKQ
+kilgore/gladewater,GGG
+kilimanjaro,JRO
+killeen,ILE
+kimmirut/lake harbour nu ,YLC
+kimmirut/lake harbour,YLC
+king cove,KVC
+king salmon,AKN
+kingfisher lake,KIF
+kingman,IGM
+kingsport,TRI
+kingston,KIN
+kinshasa,FIH
+kipnuk,KPN
+kirakira,IRA
+kirksville,IRK
+kitadaito,KTD
+kitchener,YKF
+kittila,KTT
+kiunga,UNG
+kivalina,KVL
+kiwayu,KWY
+klamath falls,LMT
+klawock,KLW
+klemtu,YKT
+knock,NOC
+knoxville,TYS
+kobuk,OBU
+kochi,KCZ
+kodiak,ADQ
+koh samui,USM
+kolobrzeg,QJY
+komsomolsk na amure,KXK
+kona,KOA
+kongiganak,KKH
+konya,KYA
+koror,ROR
+koszalin,OSZ
+kota bharu,KBR
+kota kinabalu,BKI
+kotlik,KOT
+kotzebue,OTZ
+kowanyama, Australia 
+koyukuk,KYU
+krabi,KBV
+krakow,KRK
+krivoy rog,KWG
+kuala lumpur,KUL
+kuala terengganu,TGG
+kuantan,KUA
+kubin island, Australia 
+kuching,KCH
+kudat,KUD
+kufrah,AKF
+kugaaruk,YBB
+kugluktuk/coppermine,YCO
+kulusuk,KUS
+kumejima,UEO
+kundiawa,CMU
+kuopio,KUO
+kuri,KUQ
+kushiro,KUH
+kutaisi,KUT
+kuujjuaq,YVP
+kuujjuarapik,YGW
+kuusamo,KAO
+kuwait,KWI
+kwajalein,KWA
+kwethluk,KWT
+kwigillingok,KWK
+kyzyl,KYZ
+la ceiba,LCE
+la coruna,LCG
+la crosse,LSE
+la grande,YGL
+la palma,PLP
+la paz,LPB
+la rioja,IRJ
+la romana,LRM
+la ronge,YVC
+la serena,LSC
+la tabatiere,ZLT
+la tuque,YLQ
+laayoune,EUN
+labasa,LBS
+lablab,LAB
+labuan bajo,LBJ
+labuan,LBU
+lac brochet,XLB
+lac edouard,XEE
+ladysmith,XEH
+lae island,LML
+lae,LAE
+lafayette,LAF
+lages, Brazil 
+lago agrio,LGQ
+lago argentina,ING
+lagos,LOS
+lahadbatu,LDU
+lahore,LHE
+lake charles,LCH
+lake havasu city,HII
+lake minchumina,LMA
+lakeba,LKB
+lakselv,LKL
+lalibela,LLI
+lamap,LPM
+lamen bay,LNB
+lamezia-terme,SUF
+lampang,LPI
+lampedusa,LMP
+lamu,LAU
+lanai city,LNY
+lancaster,LNS
+lands end,LEQ
+langford,XEJ
+langguri,LUV
+langkawi,LGK
+lannion,LAI
+lansdowne house,YLH
+lansing,LAN
+lanzarote,ACE
+lanzhau,LHW
+lanzhou,ZGC
+laoag,LAO
+lappeenranta,LPP
+laramie,LAR
+larantuka,LKA
+laredo,LRD
+larnaca,LCA
+larochelle,LRH
+las palmas,LPA
+las piedras,LSP
+las vegas,LAS
+latakia,LTK
+latrobe,LBE
+laucala island,LUC
+launceston, Australia 
+laurel,PIB
+laverton, Australia 
+lawas,LWY
+lawton,LAW
+le havre,LEH
+le mans,ZLN
+le puy,LPY
+le touquet,LTQ
+leaf rapids,YLR
+learmonth, Australia 
+lebanon,LEB
+leeds,LBA
+legaspi,LGP
+leinster, Australia 
+leipzig,LEJ
+leknes,LKN
+lemnos,LXS
+leon,BJX
+leonora, Australia 
+lethbridge,YQL
+leticia,LET
+levelock,KLL
+lewisburg,LWB
+lewiston,LWS
+lewistown,LWT
+lexington,LEX
+lhasa,LXA
+lianyungang,LYG
+liberal,LBL
+liberia,LIR
+libreville,LBV
+lichinga,VXC
+liege,LGG
+lifa,LIF
+lightning ridge, Australia 
+lihir island,LNV
+lihue,LIH
+lijiang city,LJG
+likiep island,LIK
+lille,LIL
+lilongwe,LLW
+lima,LIM
+limbang,LMN
+limoges,LIG
+lincoln,LNK
+lindeman island, Australia 
+lindi,LDI
+linkoping,LPI
+linyi,LYI
+linz,LNZ
+lisbon,LIS
+lismore, Australia 
+little rock,LIT
+liuzhou,LZH
+liverpool,LPL
+livingstone,LVI
+lizard island, Australia 
+ljubliana,LJU
+lloydminister,YLL
+lockhart river,IRG
+loen,LOF
+loja,LOH
+lome,LFW
+london,YXU
+londonderry,LDY
+london-paddington,QQP
+londrina, Brazil 
+long apung,LPU
+long banga,LBP
+long bawan,LBW
+long beach,LGB
+long island,HAP
+long island/deadmans cay,LGI
+long lellang,LGL
+long seridan,ODN
+longana,LOD
+longreach, Australia 
+longview,GGG
+longyearbyen,LYR
+lonorore,LNE
+lopez island,LPS
+lord howe island, Australia 
+loreto,LTO
+lorient,LRT
+los angeles,LAX
+los cabos,SJD
+los mochis,LMM
+losuia,LSA
+louisville,SDF
+lourdes/tarbes,LDE
+loveland/fort collins,QWF
+lozaro cardenas,LZC
+luanda,LAD
+luang namtha,LXG
+luang prabang,LPQ
+lubbock,LBB
+luderitz,LUD
+lugano,LUG
+lugansk,VSG
+lukla,LUA
+lulea,LLA
+lumbashi,FBM
+luoyang,LYA
+lusaka,LUN
+lutselke/snowdrift,YSG
+luwuk,LUW
+luxembourg,LUX
+luxi,LUM
+luxor,LXR
+luzhou,LZO
+lvov,LWO
+lyoksele,LYC
+lyon,XYD
+maastricht,MST
+mabuiag island, Australia 
+macapa, Brazil 
+macas,XMS
+macau,MFM
+maceio, Brazil 
+machala,MCH
+mackay, Australia 
+macon,MCN
+madang,MAG
+madinah,MED
+madison,MSN
+madras,MDJ
+madrid,MAD
+mae hong son,HGN
+mae sot,MAQ
+maewo,MWF
+mafia,MFA
+magadan,GDX
+magnitogorsk,MQF
+mahanoro,VVB
+mahe island,SEZ
+maintirano,MXT
+maio,MMO
+majkin,MJE
+majunga,MJN
+majuro,MAJ
+makale,MQX
+makhachkala,MCX
+makokou,MKU
+makung,MZG
+malabo,SSG
+malacca,MKZ
+malaga,AGP
+malakai,MAK
+malargue, Argentina 
+malatya,MLX
+male,MLE
+malindi,MYD
+malmo,MMX
+maloelap island,MAV
+malololailai,PTF
+malta,MLA
+mampikony,WMP
+mana island,MNF
+manado,MDC
+managua,MGA
+manakara,WVK
+mananara,WMR
+manang,NGX
+mananjary,MNJ
+manaus, Brazil 
+manchester,MHT
+mandalay,MDL
+mandritsara,WMA
+mangaia island,MGS
+mangrove cay,MAY
+mangu,MNR
+manguna,MFO
+manhattan,MHK
+manihi,XMH
+manihiki island,MHX
+manila,MNL
+maningrioa, Australia 
+manistee,MBL
+manizales,MZL
+manja,MJA
+mankato,MKT
+manley hot springs,MLY
+mannheim,MHG
+manokotak,KMO
+manokwari,MKW
+manston,MSE
+manta,MEC
+manus island,MAS
+manzanillo,MZO
+manzini,MTS
+mao,AMO
+maota savaii is,MXS
+maputo,MPM
+mar del plata, Argentina 
+mara lodges,MRE
+maraba, Brazil 
+maracaibo,MAR
+maracay,MYC
+mare,MEE
+margate,MGH
+maribor,MBX
+mariehamn,MHQ
+marietta, WV 
+mariitsoq,JSU
+marilia, Brazil 
+maringa, Brazil 
+marion,MWA
+mariupol,MPW
+maroantsetra,WMN
+marova,MVR
+marquette,MQT
+marseille,MRS
+marsh harbour,MHH
+marshall,MLL
+martha's vineyard,MVY
+martinsburg,AOO
+marudi,MUR
+maryborough, Australia 
+mary's harbour,YMH
+masbate,MBT
+maseru,MSU
+mashad,MHD
+mason city,MCW
+massena,MSS
+matamoros,MAM
+mataram,AMI
+matsumoto,MMJ
+matsuyama,MYJ
+maturin,MUN
+maui,OGG
+mauke island,MUK
+maulmyine,MNU
+maumere,MOF
+maun,MUB
+maupiti,MAU
+mauritius,MRU
+maxville,XID
+mayaguana,MYG
+mayaguez,MAZ
+mazatlan,MZT
+mbandaka,MDK
+mbuji mayi,MJM
+mcallen,MFE
+mcarthur river, Australia 
+mccook,MCK
+mcgrath,MCG
+medan,MES
+medellin,EOH
+medford,MFR
+medicine hat,YXH
+meekatharra, Australia 
+mehamn,MEH
+meixian,MXZ
+mejit island,MJB
+mekane selam,MKS
+mekoryuk,MYU
+melbourne,MLB
+melilla,MLN
+melville,XEK
+memanbetsu,MMB
+memphis,MEM
+mendi,NDM
+mendoza, Argentina 
+menorca,MAH
+menyamya,MYX
+merauke,MKQ
+merave,MWE
+merced,MCE
+merdey,RDE
+merida,MID
+meridian,MEI
+merimbula, Australia 
+mersa matruh,MUH
+metlakatla,MTM
+metz/nancy,ETZ
+mexicali,MXL
+mexico city,MEX
+meyers chuck,WMK
+mfume,MFU
+miami,MIA
+miandrivazo,ZVA
+middle caicos,MDS
+midland,MBS
+midland/odessa,MAF
+midway island,MDY
+mikkeli,MIK
+mikonos,JMK
+milan,LIN
+mildura, Australia 
+miles city,MLS
+mili island,MIJ
+milingimbi, Australia 
+milwaukee,MKE
+minami daito,MMD
+minatitla,MTT
+mindiptana,MDP
+mineralnye vody,MRV
+minneapolis,MSP
+minot,MOT
+minsk,MHP
+minto,MNT
+miramichi,XEY
+miri,MYY
+mirnyj,MJZ
+misawa,MSJ
+misima island,MIS
+mission,MFE
+missoula,MSO
+misurata,MRA
+mitiaro island,MOI
+miyakejima,MYE
+miyako jima,MMY
+mizan teferi,MTF
+mo i rana,MQN
+moa,MOA
+moab,CNY
+moala,MFJ
+moanamani,ONI
+moanda,MNB
+mobile,MOB
+modesto,MOD
+mogadishu,MGQ
+mohenjodaro,MJD
+mokpo,MPK
+mokuti lodge,OKU
+molde,MOL
+moline,MLI
+mombasa,MBA
+monastir,MIR
+monbetsu,MBE
+monclova,LOV
+moncton,YQM
+monkey mia, Australia 
+mono,MNY
+monroe,MLU
+monrovia,ROB
+mont joli,YYY
+monte carlo,MCM
+monte dourado, Brazil 
+montego bay,MBJ
+monterey,MRY
+monteria,MTR
+monterrey,MTY
+montes claros, Brazil 
+montevideo,MVD
+montgomery,MGM
+montpellier,MPL
+montreal,YMQ
+montrose,MTJ
+montserrat,MNI
+moorea,MOZ
+moosonee,YMO
+mopti,MZI
+mora,MXX
+morafenobe,TVA
+morambe,MXM
+moranbah, Australia 
+moree, Australia 
+morelia,MLM
+morgantown,MGW
+morioka,HNA
+mornington, Australia 
+moro,MXH
+morondava,MOQ
+moroni,HAH
+moruya, Australia 
+moscow,MOW
+moses lake,MWH
+mosjoen,MJF
+mostar,OMO
+mota lava,MTV
+mouila,MJL
+mount cook,MON
+mount gambier, Australia 
+mount hagen,HGU
+mount hotham, Australia 
+mount isa,ISA
+mount keith, Australia 
+mount magnet, Australia 
+mount pleasant,MPN
+mountain home,WMH
+mountain village,MOU
+mpacha,MPA
+mtwara,MYW
+mucuri, Brazil 
+mudanjiang,MDG
+mudgee,DGE
+muenster,FMO
+mukan,MKM
+mulhouse,MLH
+mulia,LII
+multan,MUX
+mulu,MZV
+munda,MUA
+munich,MUC
+murcia,MJV
+murmansk,MMK
+murray island, Australia 
+mus,MSR
+muscat,MCT
+muscle shoals,MSL
+muskegon,MKG
+muskrat dam,MSA
+musoma,MUZ
+muzaffarabad,MFG
+mwanza,MWZ
+myeik,MGZ
+myitkyina,MYT
+myrtle beach,MYR
+mytilene,MJT
+mzuzu,ZZU
+nabire,NBX
+nacala,MNC
+nadar,NDR
+nadi,NAN
+nadym,NYM
+naga,WNP
+nagasaki,NGS
+nagoya,NGO
+nain,YDP
+nairobi,NBO
+nakhichevan,NAJ
+nakhon ratchosima,NAK
+nakhon si thammarat,NST
+nakina,YQN
+nalchik,NAL
+namangan,NMA
+namatana,ATN
+namorik island,NDK
+nampula,APL
+namsos,OSY
+namudi,NDI
+nanaimo,YCD
+nanchong,NAO
+nanisivik,YSR
+nanking/nanjing,NKG
+nanning,NNG
+nanortalik,JNN
+nantes,NTE
+nantong,NTG
+nantucket,ACK
+nanyang,NNY
+nanyuki,NYK
+napakiak,WNA
+napanee,XIF
+napaskiak,PKA
+napier-hastings,NPE
+naples,APF
+narathiwat,NAW
+narrabri, Australia 
+narsaq,JNS
+narsarsuaq,UAK
+narvik,NVK
+naryan-mar,NNM
+nashville,BNA
+nassau,NAS
+natadi,MAT
+natal, Brazil 
+natashquan,YNA
+naukiti,NKI
+nauru island,INU
+navegantes, Brazil 
+nawabshah,WNS
+nayurengoy,NUX
+ndjamena,NDJ
+ndola,NLA
+neerlerit inaat,CNP
+nefteyugansk,NFG
+neghelli,EGL
+negril,NEG
+neiva,NVA
+nejran,EAM
+nelso,NSN
+nelson lagoon,NLG
+nelspruit,NLP
+nema,EMN
+nemiscau,YNS
+neryjungri,NER
+neuquen, Argentina 
+nevis,NEV
+new carlisle,XEL
+new chenega,NCN
+new haven,HVN
+new koliganek,KGK
+new london/groton ,GON
+new orleans,MSY
+new plymouth,NPL
+new richmond,XEM
+new stuyahok,KNW
+new york,NYC
+newark,EWR
+newburgh/stewart field,SWF
+newcastle, Australia 
+newman, Australia 
+newport news,PHF
+newquay,NQY
+newtok,WWT
+ngaoundere,NGE
+ngau island,NGI
+ngukurr, Australia 
+nha trang,NHA
+niagara falls,XLV
+niamey,NIM
+nice,NCE
+nicosia,NIC
+nightmute,NME
+nikolai,NIB
+nikolski,IKO
+nimes,FNI
+ningbo,NGB
+nioko,NIX
+niuafo'ou,NFO
+niuatoputapu,NTT
+niue island,IUE
+nizhnevartovsk,NJC
+nizhniy novgorod,GOJ
+noatak,WTK
+nojabrxsk,NOJ
+nome,OME
+nondalton,NNL
+noorvik,ORV
+noranda/rouyn,YUY
+norderney,NRD
+nordholz-speika,NDZ
+norfolk island,NLK
+norfolk,OFK
+noril'sk,NSK
+norman wells,YVQ
+normanton, Australia 
+norrkoping,NRK
+norsup,NUS
+north bay,YYB
+north bend,OTH
+north caicos,NCA
+north eleuthera,ELH
+north platte,LBF
+north ronaldsay,NRL
+north spirit lake,YNO
+northway,ORT
+norway house,YNE
+norwich,NWI
+nosara beach,NOB
+nossi-be,NOS
+nottingham,EMA
+nouadhiba,NDB
+nouakchott,NKC
+noumea,GEA
+novgorod,NVR
+novokuznetsk,NOZ
+novosibirsk,OVB
+nueva gerona,GER
+nuevo laredo,NLD
+nuiqsut,NUI
+nuku hiva,NHV
+nuku'alofa,TBU
+nukus,NCU
+nulato,NUL
+numbulwar, Australia 
+nunapitchuk,NUP
+nunukan,NNX
+nuremberg,NUE
+nuuk,GOH
+nyala,UYL
+nyaung,NYU
+nyngan, Australia 
+oakland,OAK
+oaxaca,OAX
+obano,OBD
+obihiro,OBO
+ocho rios,OCJ
+odense,ZBQ
+odessa,ODS
+odessa/midland,MAF
+ogdensburg,OGS
+ogoki,YOG
+ohrid,OHD
+oita,OIT
+okaba,OKQ
+okayama,OKJ
+okhotsk,OHO
+okinawa,OKA
+oklahoma city,OKC
+okoshiri,OIR
+oksibil,OKL
+olbia,OLB
+old crow,YOC
+olpoi,OLJ
+olympic dam, Australia 
+omaha,OMA
+omboue,OMB
+omsk,OMS
+ondangwa,OND
+ontario,ONT
+opapamiska lake,YBS
+oradea,OMR
+oran,ORN
+orange county,SNA
+orange, Australia 
+oranjemund,OMD
+orebro,ORB
+orenburg,REN
+orlando,ORL
+ormara,ORW
+ornskoldsvik,OER
+orsk,OSW
+orsta-volda,HOV
+osaka,OSA
+oshawa,YOO
+oshima,OIM
+oshkosh,OSH
+osijek,OSI
+oskarshamn,OSK
+oslo,OSL
+ostersund,OSD
+ostrava,OSR
+ottawa,YOW
+ottumwa,OTM
+otu,OTU
+ouagadougou,OUA
+ouargla,OGX
+ouarzazate,OZZ
+oudomxay,ODY
+oujda,OUD
+oulu,OUL
+ouvea,UVE
+ovda,VDA
+owensboro,OWB
+oxford house,YOH
+oxnard/ventura,OXR
+oyem,OYE
+paama,PBJ
+paamiut,JFR
+padang,PDG
+paderborn,PAD
+paducah,PAH
+page,PGA
+pago pago,PPG
+pakse,PKZ
+pakuashipi,YIF
+pakuba,PAF
+palacios,PCH
+palang karaya,PKY
+palanga,PLQ
+palembang,PLM
+palenque,PQM
+palermo, Italy 
+palm springs,PSP
+palma mallorca,PMI
+palmar,PMZ
+palmas, Brazil 
+palmerston north,PMR
+palu,PLW
+pamplona,PNA
+panama city,PFN
+pangkalanboun,PKN
+pangkalpinang,PGK
+pangnirtung,YXP
+panjger,PJG
+pantelleria,PNL
+papa westray,PPW
+papeete,PPT
+paphos,PFO
+para chinar,PAJ
+paraburdoo, Australia 
+paradise island,PID
+paramaribo,PBM
+parana, Argentina 
+parasi,PRS
+parent,XFE
+paris,PAR
+parkersburg, OH 
+parksville,XPB
+parma/milan,PMF
+parnaiba, Brazil 
+paro,PBH
+pasco,PSC
+pasni,PSI
+paso de los libres,AOL
+passo fundo, Brazil 
+pasto,PSO
+patras,GPA
+pau,PUF
+paulatuk,YPC
+pavlodar,PWQ
+peace river,YPE
+peawanuck,YPO
+pechora,PEX
+pedro bay,PDB
+pekanbaru,PKU
+pelican,PEC
+pellston,PLN
+pelotas, Brazil 
+pemba,POL
+pembroke,YTA
+penang,PEN
+pendleton,PDT
+penrhyn island,PYE
+pensacola,PNS
+penticton,YYF
+penzance,PZE
+peoria,PIA
+perce,XFG
+pereira,PEI
+perigueux,PGX
+perito moreno, Argentina 
+perm,PEE
+perpignan,PGF
+perryville,KPV
+perth, Australia 
+perugia,PEG
+pescara,PSR
+peshawar,PEW
+petersburg,PSG
+petrolina, Brazil 
+petropaulousk-kamchats,PKC
+petrozavodsk,PES
+phalaborwa,PHW
+philadelphia,PHL
+phitsanulok,PHS
+phnom penh,PNH
+phoenix,PHX
+phrae,PRH
+phu quoc,PQC
+phuket,HKT
+pickle lake,YPL
+pico island,PIX
+piedras negras,PDS
+pierre,PIR
+pietermaritzburg,PZB
+pietersburb,PTG
+pikangikum,YPM
+pilot point,PIP
+pilot station,PQS
+pingtung,PIF
+pisa,PSA
+pittsburgh,PIT
+pituffik,THU
+piura,PIU
+placencia,PLJ
+platinum,PTU
+plattsburgh,PLB
+pleiku,PXU
+plettenburg bay,PBZ
+plymouth,PLH
+pocatello,PIH
+podgoriea,TGD
+pohnpei,PNI
+point baker,KPB
+point hope,PHO
+point lay,PIZ
+pointe noire,PNR
+pointe-a-pitre,PTP
+pointe-aux-trembles,XPX
+points north landing,YNL
+poitiers,PIS
+pokhara,PKR
+poltava,PLV
+polyarnyj,PYJ
+ponca city,PNC
+ponce,PSE
+pond inlet,YIO
+ponta delgada,PDL
+ponta pora, Brazil 
+pontianak,PNK
+poplar hill,YHP
+popondetta,PNP
+popraol/tatry,TAT
+pori,POR
+porlamar,PMV
+port alberni,YPB
+port alsworth,PTA
+port angeles,CLM
+port antonio,POT
+port arthur/beaumont,BPT
+port au prince,PAP
+port augusta, Australia 
+port berge,WPB
+port clarence,KPC
+port elizabeth,PLZ
+port gentil,POG
+port harcourt,PHC
+port hardy,YZT
+port headland, Australia 
+port heiden,PTH
+port hope simpson,YHA
+port lincoln, Australia 
+port macquarie, Australia 
+port meiner,YPN
+port moller,PML
+port moresby,POM
+port of spain,POS
+port protection,PPV
+port stanley,PSY
+port sudan,PZU
+port vila,VLI
+portage creek,PCA
+portland,PWM
+porto alegre, Brazil 
+porto santo,PXO
+porto seguro,BPS
+porto velho, Brazil 
+porto,OPO
+portoviejo,PVO
+portsmouth,PSM
+posadas, Argentina 
+postville,YSO
+poughkeepsie,POU
+povungnituk,YPX
+powell river,YPW
+poza rico,PAZ
+poznan,POZ
+prague,PRG
+praia,RAI
+pres. roque saenz pena, Argentina 
+prescott,PRC
+presidente prudente, Brazil 
+presque isle,PQI
+preveza/lefkas,PVK
+prince albert,YPA
+prince george,YXS
+prince rupert,YPR
+princeton,BLF
+pristina,PRN
+proserpine, Australia 
+providence,PVD
+providenciales,PLS
+provincetown,PVC
+prudhoe bay/deadhorse,SCC
+pucallpa,PCL
+puebla,PBC
+pueblo,PUB
+puerto ayacucha,PYH
+puerto berria,PBE
+puerto del rosario,FUE
+puerto deseado, Argentina 
+puerto escondido,PXM
+puerto jimenez,PJM
+puerto lempira,PEU
+puerto madryn, Argentina 
+puerto maldonado,PEM
+puerto montt,PMC
+puerto ordaz,PZO
+puerto plata,POP
+puerto princesa,PPS
+puerto suarez,PSZ
+puerto vallarta,PVR
+pukatawagan,XPK
+pula,PUY
+pullman,PUW
+punta arenas,PUQ
+punta cana,PUJ
+punta del este,PDP
+punta gorda,PND
+punta islita,PBP
+putussibau,PSU
+pyongyang,FNJ
+qaisumah,AQI
+qaqortoq,JJU
+qiemo,IQM
+qikiqtarjuaq,YVM
+qingdao,TAO
+qiqihar,NDG
+qualicum,XQU
+quaqtaq,YQC
+quebec,YFZ
+queenstown,ZQN
+quelimane,UEL
+quepos,XQP
+queretaro,QRO
+quesnel,YQZ
+quetta,UET
+qui nhon,UIH
+quibdo,UIB
+quimper,UIP
+quincy,UIN
+quinhagak,KWN
+quipi, Australia 
+quito,UIO
+rabaraba,RBP
+rabat,RBA
+rabaul,RAB
+rach gia,VKG
+raduzhnyi,RAT
+rae lakes,YRA
+rafha,RAH
+rafsanjan,RJN
+raiatea,RFP
+rainbow lake,YOP
+rajshahi,RJH
+raleigh/durham,RDU
+ramato,RBV
+ramingining, Australia 
+rampart,RMP
+rankin inlet,YRT
+ranong,UNN
+rapid city,RAP
+rarotonga,RAR
+ras al khaimah,RKT
+rasht,RAS
+ratanakiri,RBE
+rawala kot,RAZ
+reading,RDG
+rebun,RBJ
+recife, Brazil 
+reconquista, Argentina 
+red devil,RDV
+red lake,YRL
+red sucker lake,YRS
+redding,RDD
+redmond,RDM
+reggio calabria,REG
+regina,YQR
+rennell,RNL
+rennes,RNS
+reno,RNO
+repulse bay,YUT
+resistencia, Argentina 
+resolute,YRB
+reus,REU
+reykjavik,KEF
+reynossa,REX
+rhinelander, 
+rhodes,RHO
+ribeirao preto, Brazil 
+riberalta,RIB
+richards bay,RCB
+richmond, Australia 
+riga,RIX
+rigolet,YRG
+rijeka,RJK
+rimini,RMI
+rimouski,YXK
+rio branco, Brazil 
+rio cuarto, Argentina 
+rio de janeiro, Brazil 
+rio gallegos,RGL
+rio grande, Brazil 
+rio mayo, Argentina 
+rio verde, Brazil 
+riohacha,RCH
+rishiri,RIS
+riverton,RIW
+riviere-a-pierre,XRP
+riyadh,RUH
+riyan mukalla,RIY
+roane,RNE
+roanoke,ROA
+roatan,RTB
+roberval,YRJ
+roch gia,VKG
+roche harbor,RCE
+rochester,RST
+rock sound,RSD
+rock springs,RKS
+rockford,ZRF
+rockhampton, Australia 
+rockland,RKD
+rodez,RDZ
+rodrigues island,RRG
+roervik,RVK
+rognan,ZXM
+roma, Australia 
+rome,ROM
+rongelap island,RNP
+ronneby,RNB
+roros,RRS
+rorutu,RUR
+rosario, Argentina 
+rosh pina,RPN
+rost,RET
+rostock-laage,RLG
+rostov,ROV
+roswell,ROW
+rota,ROP
+rotorua,ROT
+rotterdam,RTM
+rouen,URO
+round lake,ZRJ
+rouyn/noranda,YUY
+rovaniemi,RVN
+ruby,RBY
+russian mission,RSH
+rutland,RUT
+s. cristobal del casas,SZT
+saarbruecken,QFZ
+sachigo lake,ZPB
+sachs harbour,YSY
+sackville,XKV
+sacramento,SMF
+saginaw,MBS
+saint cloud,STC
+saint croix,STX
+saint george island,STG
+saint george,SGU
+saint hyacinthe,XIM
+saint john,YSJ
+saint johns,YYT
+saint leonard,YSL
+saint louis,STL
+saint lucia,SLU
+saint maarten,SXM
+saint mary's,KSM
+saint michael,SMK
+saint paul island,SNP
+saint petersburg,LED
+saint thomas,STT
+saint tropez,XPZ
+saipan,SPN
+sakon nakhon,SNO
+salehard,SLY
+salina,SLN
+salisbury-ocean city,SBY
+salluit,YZG
+salt cay,SLX
+salt lake city,SLC
+saltillo,SLW
+salvadore, Brazil 
+salzburg,SZG
+samara,KUF
+sambaua,SVB
+samburu,UAS
+samos,SMI
+san andres island,ADZ
+san angelo,SJT
+san antonio oesta, Argentina 
+san antonio,SAT
+san carlos,BRC
+san diego,SAN
+san francisco,SFO
+san jose,SJC
+san juan,SJU
+san julian, Argentina 
+san luis obispo,SBP
+san luis potosi,SLP
+san luis, Argentina 
+san marino,SAI
+san martin de los andes,CPC
+san miguel,NMG
+san pedro sula,SAP
+san rafael,AFA
+san salvador,ZSA
+san sebastian,EAS
+sana'a,SAH
+sand point,SDP
+sanday,NDY
+sandy lake,ZSJ
+sanford,SFB
+sanikiluaq,YSK
+santa ana,SNA
+santa barbara,SBA
+santa cruz de la palma,SPC
+santa cruz,VVI
+santa fe,SAF
+santa maria,RIA
+santa marta,SMR
+santa rosa,STS
+santarem, Brazil 
+sante marie,SMS
+santiago,SCL
+santo angelo,GEL
+santo antao,NTO
+santo domingo,HEX
+sanya,SYX
+sao nicolau,SNE
+sao paulo,CGH
+sao tome is.,TMS
+sao vicente,VXE
+sapporo,CTS
+sara,SSR
+saranac lake,SLK
+sarasota,SRQ
+saratov,RTW
+sarmi,ZRM
+sarnia,YZR
+saskatoon,YXE
+satu mare,SUJ
+satwag,SWG
+sau luiz, Brazil 
+sault ste marie, 
+sault ste-marie,YAM
+saumlaki,SXK
+savannah,SAV
+savannakhet,ZVK
+savonlinna,SVL
+savoonga,SVA
+savusavu,SVU
+sayaboury,ZBY
+scammon bay,SCM
+schefferville,YKL
+scottsbluff,BFF
+scranton,AVP
+seattle,LKE
+sege,EGM
+seiyun,GXF
+selawik,WLK
+selje,QFK
+semarang,SRG
+senggo,ZEG
+senneterre,XFK
+seoul,SEL
+sept-iles,YZV
+servi,ZRI
+sesriem,SZM
+sevilla,SVQ
+seward,SWD
+shageluk,SHX
+shaktoolik,SKK
+shamattawa,ZTM
+shanghai,PVG
+shannon,SNN
+shantou,SWA
+sharm el sheikh,SSH
+shawinigan,XFL
+shawnigan,XFM
+sheffield,SZD
+sheffield/florence/muscle shoals,MSL
+sheldon point,SXP
+shenzhen,SZX
+sheridan,SHR
+shetland islands,LWK
+shillavo,HIL
+shimkent,CIT
+shiraz,SYZ
+shishmaref,SHH
+shonai,SYO
+shreveport,SHV
+shungnak,SHG
+shute harbor,JHQ
+siem reap,REP
+silver city,SVC
+simao,SYM
+sinak,NKD
+singapore,SIN
+sintang,SQG
+sioux city,SUX
+sioux falls,FSD
+sioux lookout,YXL
+sisimiut,JHS
+sitka,SIT
+sittwe,AKY
+sivas,VAS
+skagway,SGY
+skiathos,JSI
+skopie,FYROM
+skovde,KVB
+skukuza,SZK
+sleetmore,SLQ
+sligo,SXL
+smith falls,YSH
+smithers,YYD
+snare lake,YFJ
+soalala,DWB
+soderham,SOO
+sofia,SOF
+sognolal,SOG
+solo city,SOC
+son-la,SQH
+sorkjosen,SOJ
+sorocaba,SOD
+south andros,TZN
+south bend,SBN
+south caicos,XSC
+south hampton,SOU
+south indian lake,XSI
+south molle island, Australia 
+south naknek,WSN
+southern pines,SOP
+spartanburg/greenville,GSP
+split,SPU
+spokane,GEG
+spring point,AXP
+springfield,SPI
+st anthony,YAY
+st catharines,YCM
+st denis de la reunion,RUN
+st kitts,SKB
+st marys,XIO
+st petersburg/clearwater,PIE
+st pierre,FSP
+st vincent,SVD
+st. croix island,STX
+st. etienne,EBU
+st. eustatius,EUX
+st. lucia,UVF
+st. petersburg,LED
+st. pierre de la reunion,ZSE
+st. thomas island,STT
+state college/university park,SCE
+staunton,SHD
+stavanger,SVG
+stavropol,STW
+ste therese point,YST
+steamboat springs,SBS
+stebbins,WBB
+stella maris,SML
+stephenville,YJT
+stevens point/wausau,CWA
+stevens village,SVS
+stewart field/newburgh,SWF
+stockholm,STO
+stockton,SCK
+stony rapids,YSF
+stony river,SRV
+stornoway,SYY
+storuman,SQO
+strasbourg,XER
+strathroy,XTY
+stronsay,SOY
+stung treng,TNX
+stuttgart,STR
+suavanao,VAO
+sucre,SRE
+sudbury,YSB
+sue island, Australia 
+sui,SUL
+sukhotthai,THS
+summer beaver,SUR
+sun city,NTY
+sun valley,SUN
+sunshine coast, Australia 
+surabaya,SUB
+surat thani,URT
+suva,SUV
+sveg,EVG
+svolvaer,SVJ
+swan river,ZJN
+sydney, Australia 
+sylhet,ZYL
+syracuse,SYR
+szczecin,SZZ
+taba,TCP
+tabarka,TBJ
+tabatinga, Brazil 
+tabora,TBO
+tabriz,TBZ
+tabubil,TBG
+tabuk,TUU
+tacheng,TCG
+tachilek,THL
+tacloban,TAC
+tacna,TCQ
+tadoule lake,XTL
+taichung,TXG
+taif,TIF
+tainan,TNN
+taipei,TPE
+taitung,TTT
+taiyuan,TYN
+taiz,TAI
+takotna,TCT
+talkeetna,TKA
+tallahassee,TLH
+tallinn,TLL
+taloyoak,YYH
+tamanrasset,TMR
+tamarindo,TNO
+tamatave,TMM
+tambohorano,WTA
+tambolaka,TMC
+tambor,TMU
+tampa,TPA
+tampere,TMP
+tampico,TAM
+tamworth, Australia 
+tanahmerah,TMH
+tanana,TAL
+tangier,TNG
+tanjung pandan,TJQ
+tanjung selor,TJS
+tanna,TAH
+taos,TSM
+tapachula,TAP
+tarakan,TRK
+taramajma,TRA
+taranto,TAR
+tarapoto,TPP
+tarawa,TRW
+taree, Australia 
+tari,TIZ
+tarija,TJA
+tashkent,TAS
+tasiujuaq,YTQ
+tatitlek,TEK
+taupo,TUO
+tauranga,TRG
+taveuni,TVU
+tawau,TWU
+tbessa,TEE
+tbilisi,TBS
+tchibanga,TCH
+te anau,TEU
+teesside,MME
+tefe, Brazil 
+tegucigalpa,TGU
+tehran,THR
+tekadu,TKB
+tel aviv,TLV
+teller mission,KTS
+telluride,TEX
+tembagapura,TIM
+teminabuan,TXM
+temuco,ZCO
+tenakee springs,TKE
+tenerife,TFN
+tennant creek, Australia 
+tepic,TPQ
+terceira island,TER
+teresina, Brazil 
+termez,TMJ
+ternate,TTE
+terrace,YXT
+terre haute,HUF
+tetabedi,TDB
+tete,TET
+tete-a-la baleine,ZTB
+tetlin,TEH
+tetuan,TTU
+texarkana,TXK
+thandwe,SNW
+thangool, Australia 
+thargomindah, Australia 
+the bight,TBI
+the pas,YQD
+thessaloniki,SKG
+thicket portage,YTD
+thief river falls,TVF
+thira,JTR
+thompson,YTH
+thorne bay,KTB
+thorshofn,THO
+thunder bay,YQT
+thursday island, Australia 
+tianjn,TSN
+tiaret,TID
+tiga,TGJ
+tijuana,TIJ
+tikehau atoll,TIH
+tiksi,IKS
+timaru,TIU
+timimoun,TMX
+timmins,YTS
+timosoara,TSR
+tin city,TNC
+tindouf,TIN
+tinian,TIQ
+tioljikja,TIY
+tioman,TOD
+tippi,TIE
+tirana,TIA
+tiree,TRE
+tirgu mures,TGM
+tiruchirapally,TRZ
+tivat,TIV
+tlemcen,TLM
+tobago,TAB
+tobruk,TOB
+tofino, 
+togiak village,TOG
+tok,TKJ
+toksook bay,OOK
+tokunoshima,TKN
+tokushima,TKS
+tokyo,TYO
+toledo,TOL
+toluco,TLC
+tom price, Australia 
+tomanggong,TMG
+tombouctou,TOM
+tomsk,TOF
+tongliao,TGO
+tongoa,TGH
+toowoomba, Australia 
+topeka,FOE
+toronto,YBZ
+torp airport oslo,TRF
+torreon,TRC
+torres,TOH
+torsby,TYF
+tortola,TOV
+tortoli,TTB
+tortuquero,TTQ
+tottori,TTJ
+touho,TOU
+toulon,TLN
+toulouse,TLS
+tours,TUF
+townsville, Australia 
+toyama,TOY
+tozeur,TOE
+trabzon,TZX
+trang,TST
+trapani,TPS
+traralgon, Australia 
+traverse city,TVC
+treasure cay,TCB
+trelew, Argentina 
+trenton/mercer,TTN
+trieste,TRS
+trinidad,TDD
+tripoli,TIP
+trollhattan,THN
+trombetas, Brazil 
+tromso,TOS
+trondheim,TRD
+trujillo,TJI
+truk,TKK
+truro,XLZ
+tsaratanana,TTS
+tsiroanomandidy,WTS
+tsumeb,TSB
+tsushima,TSJ
+tubuai,TUB
+tucson,TUS
+tucuman, Argentina 
+tucupita,TUV
+tucurui, Brazil 
+tufi,TFI
+tuguegarao,TUG
+tuktoyaktuk,YUB
+tulcan,TUA
+tulear,TLE
+tulita/fort norman,ZFN
+tulsa,TUL
+tuluksak,TLT
+tum,TUJ
+tumaco,TCO
+tumbes,TBP
+tunis,TUN
+tuntutuliak,WTL
+tununak,TNK
+tunxi,TXN
+tupelo,TUP
+turaif,TUI
+turbat,TUK
+turin,TRN
+turku,TKU
+tuscaloosa,TCL
+tuxtla gutierrez,TGZ
+twin falls,TWF
+twin hills,TWA
+tyler,TYR
+tyumen,TJM
+ube,UBJ
+uberaba, Brazil 
+uberlandia, Brazil 
+ubon ratchathani,UBP
+udon thani,UTH
+ufa,UFA
+ujae island,UJE
+ujung pandang,UPG
+ukhta,UCT
+ulaanbaatar,ULN
+ulanhot,HLH
+ulan-ude,UUD
+ulei,ULB
+uliastai,ULY
+ulithi,ULI
+ulsan,USN
+ulundi,ULD
+umea,UME
+umiujag,YUD
+umtata,UTT
+unalakleet,UNK
+upernavik,JUV
+upington,UTN
+uraj,URJ
+uralsk,URA
+uranium city,YBE
+urbana/champaign,CMI
+urgench,UGC
+urmieh,OMH
+uroubi,URU
+uruapan,UPN
+uruguaiana, Brazil 
+urumqi,URC
+useless loop, Australia 
+ushuaia, Argentina 
+usinsk,USK
+ust-ilimsk,UIK
+ust-kamenogorsk,UKK
+utapao,UTP
+utica,UCA
+utila,UII
+utirik island,UTK
+utopia creek,UTO
+uummannaq,UMD
+uzhgorod,UDJ
+v.c. bird international,ANU
+vaasa,VAA
+vadso,VDS
+vail,EGE
+valdez,VDZ
+valdivia,ZAL
+val-d'or,YVO
+valdosta,VLD
+valencia,VLC
+valenciennes,XVS
+valera,VLV
+valesdir,VLS
+valladolid,VLL
+valledupar,VUP
+valparaiso,VPS
+valverde,VDE
+van,VAN
+vancouver,YVR
+vanimo,VAI
+vanuabalavu,VBV
+varadero,VRA
+vardoe,VAW
+varginha, Brazil 
+varkaus,VRK
+varna,VAR
+vasteras,VST
+vatomatry,VAT
+vava'u,VAV
+vaxjo,VXO
+venetie,VEE
+venice,VCE
+ventura/oxnard,OXR
+veracruz,VER
+vernal,VEL
+verona,VRN
+vestmannaeyjar,VEY
+victoria falls,VFA
+victoria river downs, Australia 
+victoria,YWH
+viedma, Argentina 
+vienna,VIE
+vientiane,VTE
+vieques,VQS
+vigo,VGO
+vilanculos,VNX
+vilhelmina,VHM
+vilhena,BVH
+villa gesell, Argentina 
+villa mercedes, Argentina 
+villahermosa,VSA
+vilnius,VNO
+vinh city,VII
+virgin gorda,VIJ
+visalia,VIS
+visby,VBY
+vitebsk,VTB
+vitoria da conquista, Brazil 
+vitoria,VIT
+vivigani,VIV
+vladikavkaz,OGZ
+vladivostok,VVO
+vohemar,VOH
+volgodonsk,VLK
+volgograd,VOG
+vopnafjordur,VPN
+vorkuta,VKT
+voronezh,VOZ
+wabush,YWK
+waco,ACT
+wadi ad dawasir,WAE
+wadi halfa,WHF
+wagethe,WET
+wagga wagga, Australia 
+wahai,WBA
+waingapo,WGP
+wainwright,AIN
+wakkanai,WKJ
+walaha,WLH
+wales,WAA
+walgett, Australia 
+walla walla,ALW
+wallis island,WLS
+walvis bay,WVB
+wamena,WMX
+wanaka,WKA
+wanganui,WAG
+wangerooge,AGE
+wanigela,AGL
+wanxian,WXN
+warsaw,WAW
+washington dc - all airports ,WAS
+washington dc - dulles ,IAD
+washington dc - national ,DCA
+wasior,WSR
+waskaganish,YKQ
+wasu,WSU
+waterfall,KWF
+waterford,WAT
+waterloo,ALO
+watertown,ART
+watford,XWA
+wau,WUG
+wausau/stevens point,CWA
+webequie,YWP
+wedau,WED
+wedjh,EJH
+weihai,WEH
+weipa, Australia 
+wellington,WLG
+wemindji,YNC
+wenatchee,EAT
+wenzhou,WNZ
+west palm beach,PBI
+west yellowstone,WYS
+westchester county,HPN
+westerland,GWT
+westerly,WST
+westport,WSZ
+westray,WRY
+westsound,WSX
+wewak,WWK
+weymont,XFQ
+wha ti/lac la martre,YLE
+whakatane,WHK
+whale cove,YXN
+whale pass,WWP
+whangarei,WRE
+white mountain,WMO
+white river,YWR
+whitehorse,YXY
+whyalla, Australia 
+wichita falls,SPS
+wichita,ICT
+wick,WIC
+wilhelmshaven,WVN
+wilkes barre,AVP
+williams harbour,YWM
+williams lake,YWL
+williamsburg,PHF
+williamsport,IPT
+williston,ISN
+wilmington,ILM
+wiluna, Australia 
+windarra, Australia 
+windsor locks,BDL
+windsor,YQG
+winnipeg,YWG
+winton, Australia 
+woja,WJA
+wollaston lake,ZWL
+wonan,WOT
+wonju,WJU
+woodstock,XIP
+worcester,ORH
+worland,WRL
+wotho island,WTO
+wotje island,WTE
+wrangell,WRG
+wroclaw,WRO
+wudinna, Australia 
+wuhan,WUH
+wunnummin lake,WNN
+wuyishan,WUS
+wyndham, Australia 
+wyoming,XWY
+xi an,XIY
+xiamen,XMN
+xiangfan,XFN
+xichang,XIC
+xieng khouang,XKH
+xilinhot,XIL
+xining,XNN
+xuzhou,XUZ
+yakima,YKM
+yakutat,YAK
+yakutsk,YKS
+yalumet,KYX
+yam island, Australia 
+yamagata,GAJ
+yan'an,ENY
+yanbu,YNB
+yancheng,YNZ
+yandina,XYA
+yangon,RGN
+yanji,YNJ
+yantai,YNT
+yaounde,YAO
+yap,YAP
+yarmouth,YQI
+yaroslavl,IAR
+yazd,AZD
+yelimane,EYL
+yellowknife,YZF
+yellowstone/cody,COD
+yeosu,RSU
+yerevan,EVN
+yibin,YBP
+yichang,YIH
+yinchuan,INC
+yining,YIN
+yiwu,YIW
+yogyakarta,JOG
+yonago,YGJ
+yonaguni jima,OGN
+york landing,ZAC
+yorke island, Australia 
+yoronjima,RNJ
+youngstown,YNG
+yulin,UYN
+yuma,YUM
+yuzhno-sakhalinsk,UUS
+zadar,ZAD
+zagreb,ZAG
+zahedan,ZAH
+zakinthos island,ZTH
+zamboanga,ZAM
+zanzibar,ZNZ
+zaporozhye,OZH
+zaragoza,ZAZ
+zhanjiang,ZHA
+zhaotong,ZAT
+zhengzha,CGO
+zhob,PZH
+zhoushan,HSN
+zhuhai,ZUH
+zielana,IEG
+zihuatanejo/ixtapa,ZIH
+zouerate,OUZ
+zugapa,UGU
+zurich,ZRH
