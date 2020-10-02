@@ -6,6 +6,7 @@ from BookyBotApp.models import *
 from django.shortcuts import render, HttpResponse, get_object_or_404
 from django.contrib.auth import logout, authenticate, login
 from django.contrib.auth.decorators import login_required
+from django.utils import timezone
 
 # from rest_framework.response import Response
 # from rest_framework import status
@@ -72,6 +73,7 @@ def Home(request):
     booky_bot_user.v_destination=""
     booky_bot_user.v_source=""
     booky_bot_user.v_date=""
+    booky_bot_user.created_date = timezone.now()
     booky_bot_user.save()
     return render(request, 'home.html')
 
@@ -109,6 +111,7 @@ class LogInSubmitAPI(APIView):
            booky_bot_user.v_destination=""
            booky_bot_user.v_source=""
            booky_bot_user.v_date=""
+           booky_bot_user.created_date = timezone.now()
            #arr_temp = []
            booky_bot_user.save()
 
@@ -301,6 +304,7 @@ class GetResponseAPI(APIView):
             print(booky_bot_user.v_source)
             print(booky_bot_user.v_destination)
             print(booky_bot_user.v_date)
+            print(booky_bot_user.created_date)
             print(response['bot-msg'])
             response['status'] = 200
 
