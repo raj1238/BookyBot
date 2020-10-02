@@ -5,6 +5,8 @@ from django.db import models
 
 from django.contrib.auth.models import User
 
+import json
+
 class BookyBotUser(User):
 
     step_counter = models.IntegerField(default=0,null=True,blank=True)
@@ -12,6 +14,7 @@ class BookyBotUser(User):
     v_destination = models.CharField(max_length=100,null=True,blank=True)
     v_source = models.CharField(max_length=100,null=True,blank=True)
     v_date = models.CharField(max_length=100,null=True,blank=True)
+    created_date = models.DateTimeField()
 
     def save(self, *args, **kwargs):
         if self.pk == None:
