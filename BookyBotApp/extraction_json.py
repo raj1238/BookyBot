@@ -1,9 +1,8 @@
 import json
 
-#with open('AMD-JAI-flight-results.txt') as fp:
-#	data = json.load(fp)
-
-#print(len(data))
+with open('AMD-JAI-flight-results.txt') as fp:
+	data = json.load(fp)
+print(len(data))
 
 def flight_data(sorted_list):
 	
