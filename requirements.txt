@@ -8,7 +8,7 @@ cymem==2.0.2
 datefinder==0.7.0
 Django==1.11.29
 django-extensions==2.2.5
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 Flask==1.1.1
 funcsigs==1.0.2
 idna==2.8
